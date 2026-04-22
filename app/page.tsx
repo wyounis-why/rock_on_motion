@@ -1,3 +1,4 @@
+export const runtime = 'edge';
 export default function Home() {
   return (
     <div className="mx-auto flex w-full max-w-6xl flex-col gap-16 px-6 py-10 sm:py-12">
